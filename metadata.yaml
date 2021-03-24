@@ -1,0 +1,29 @@
+_repo: Mak_64844
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kosztolányi, Dezső
+    aliases:
+    - Kosztolányi, Désiré
+    - Kosztolanyi, Dezso
+    - Kosztolanyi, Desire
+    - Kostolani, Dezhe
+    - Kosztolányi, Dezso
+    birthdate: 1885
+    deathdate: 1936
+    gutenberg_agent_id: '40807'
+    url: http://www.gutenberg.org/2009/agents/40807
+    wikipedia: https://hu.wikipedia.org/wiki/Kosztol%C3%A1nyi_Dezs%C5%91
+description: ''
+gutenberg_issued: '2021-03-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64844'
+language: hu
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Mák
+url: http://www.gutenberg.org/ebooks/64844
